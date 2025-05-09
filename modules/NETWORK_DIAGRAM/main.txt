@@ -1,1 +1,0 @@
-Insert the customer's network diagram here: {NETWORK_DIAGRAM}
