@@ -1,0 +1,4 @@
+CUSTOMER_NAME = "Telco ABC"
+COMPANY_NAME = "Rackspace"
+CITY_NAME = "Hanoi"
+PARTNER_NAME = "CMC"
