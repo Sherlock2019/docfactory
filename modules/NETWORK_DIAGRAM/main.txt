@@ -1,0 +1,1 @@
+Insert or reference the customer's network topology diagram. {NETWORK_DIAGRAM}
